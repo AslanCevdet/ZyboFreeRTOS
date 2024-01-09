@@ -1,0 +1,12 @@
+[submodule "Zybo_FreeRTOS/externals/TCP"]
+	path = Zybo_FreeRTOS/externals/TCP
+	url = https://github.com/AslanCevdet/TCP
+[submodule "Zybo_FreeRTOS/externals/Kernel"]
+	path = Zybo_FreeRTOS/externals/Kernel
+	url = https://github.com/AslanCevdet/Kernel
+[submodule "Zybo_FreeRTOS/externals/Drivers"]
+	path = Zybo_FreeRTOS/externals/Drivers
+	url = https://github.com/AslanCevdet/Drivers
+[submodule "Zybo_FreeRTOS/externals/CevdetLib"]
+	path = Zybo_FreeRTOS/externals/CevdetLib
+	url = https://github.com/AslanCevdet/CevdetLib

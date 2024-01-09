@@ -1,0 +1,9 @@
+timestamp=[2024-01-09 20:14:36], mode=WORKBENCH_START, duration=0:00:03.454, duration_ms=3454, data={}
+timestamp=[2024-01-09 20:14:36], mode=WORKBENCH_UI_INIT, duration=0:00:00.239, duration_ms=239, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-01-09 20:14:37], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.263, duration_ms=263, data={}
+timestamp=[2024-01-09 20:15:15], mode=APP_CREATION, duration=0:00:14.058, duration_ms=14058, data={name=Zybo_FreeRTOS, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=Zybo_BD_wrapper, application_type=application}
+timestamp=[2024-01-09 20:19:11], mode=PLATFORM_GENERATION, duration=0:00:10.874, duration_ms=10874, data={name=Zybo_BD_wrapper}
+timestamp=[2024-01-09 20:19:16], mode=BUILD, duration=0:00:04.801, duration_ms=4801, data={name=Zybo_FreeRTOS, configuration=Debug, clean_build=false}
+timestamp=[2024-01-09 20:19:20], mode=BUILD, duration=0:00:03.710, duration_ms=3710, data={name=Zybo_FreeRTOS_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-09 20:19:33], mode=BUILD, duration=0:00:01.244, duration_ms=1244, data={name=Zybo_FreeRTOS, configuration=Debug, clean_build=false}
+timestamp=[2024-01-09 20:19:34], mode=BUILD, duration=0:00:00.101, duration_ms=101, data={name=Zybo_FreeRTOS_system, configuration=Debug, clean_build=false}
